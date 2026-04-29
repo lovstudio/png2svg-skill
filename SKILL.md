@@ -1,5 +1,5 @@
 ---
-name: lovstudio:png2svg
+name: lovstudio-png2svg
 category: Document Conversion
 tagline: "PNG → high-quality SVG conversion with background removal and spline curves."
 description: 将 PNG 转换为高质量 SVG（去白底+样条曲线+压缩）
