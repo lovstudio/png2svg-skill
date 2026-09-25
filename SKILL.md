@@ -13,11 +13,11 @@ compatibility: >
   Works on macOS/Linux where those CLIs are installed.
 metadata:
   author: contributors
-  version: "1.1.0"
+  version: "1.1.1"
   tags: png svg vectorization imagemagick vtracer
 ---
 
-# PNG to SVG Skill
+# 矢量描摹 · Vector Tracer
 
 将 PNG 图片转换为高质量矢量 SVG，支持去除白色背景。
 
