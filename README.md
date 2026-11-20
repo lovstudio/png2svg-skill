@@ -1,6 +1,6 @@
 # 矢量描摹 · Vector Tracer
 
-![Version](https://img.shields.io/badge/version-1.1.1-CC785C)
+![Version](https://img.shields.io/badge/version-1.1.2-CC785C)
 
 Convert PNG images into high-quality SVG files with optional white-background removal, vtracer spline vectorization, and svgo compression.
 
@@ -9,7 +9,7 @@ Part of [skill-publisher general skills](https://example.com/skills/general-skil
 ## Install
 
 ```bash
-npx skills add png2svg -g -y
+npx lovstudio skills add png2svg -g -y
 ```
 
 ## Dependencies
